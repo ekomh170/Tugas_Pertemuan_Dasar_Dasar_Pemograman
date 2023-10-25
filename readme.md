@@ -10,4 +10,4 @@
 
 <h3>Tugas Pertemuan 5 - DDP :</h3>
 
-Link File Github : <a href="">Tugas_DDP_Pertemuan_5_Python.py</a>
+Link File Github : <a href="https://github.com/ekomh170/Tugas_Pertemuan_Dasar_Dasar_Pemograman/blob/ry_dev/Tugas_DDP_Pertemuan_5_Python.py">Tugas_DDP_Pertemuan_5_Python.py</a>
