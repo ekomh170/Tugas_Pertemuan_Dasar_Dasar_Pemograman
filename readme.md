@@ -8,6 +8,11 @@
 
 <hr />
 
-<h3>Tugas Pertemuan 5 - DDP :</h3>
+<h3>Tugas Pertemuan 5 - Praktikum_5_List_Dan_Condition_Match - DDP :</h3>
 
-Link File Github : <a href="https://github.com/ekomh170/Tugas_Pertemuan_Dasar_Dasar_Pemograman/blob/ry_dev/Tugas_DDP_Pertemuan_5_Python.py">Tugas_DDP_Pertemuan_5_Python.py</a>
+Link File Github : <a href="https://github.com/ekomh170/Tugas_Pertemuan_Dasar_Dasar_Pemograman/blob/ry_dev/Praktikum_5_List_Dan_Condition_Match/Tugas_DDP_Pertemuan_5_Python.py">Tugas_DDP_Praktikum_5_List_Dan_Condition_Match.py</a>
+
+<h3>Tugas Pertemuan 6 - Praktikum_6_Python_Looping - DDP :</h3>
+
+Link File Github : <a href="https://github.com/ekomh170/Tugas_Pertemuan_Dasar_Dasar_Pemograman/blob/ry_dev/Praktikum_6_Python_Looping/Tugas_DDP_Pertemuan_6_Python_Looping.py">Praktikum_6_Python_Looping.py</a>
+
