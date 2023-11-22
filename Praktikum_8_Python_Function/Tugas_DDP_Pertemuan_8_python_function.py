@@ -59,4 +59,4 @@ ganjil(100)
 #  TI - 02
 #  Teknik Informatika
 #  Dasar - Dasar Pemograman (DDP)
-#  Tema : Kerjakan Soal Pertemuan - 8, Menggunakan Python --> Materi Python Function
+#  Tema : Kerjakan Soal Pertemuan - 8, Menggunakan Python --> Materi Python Function 

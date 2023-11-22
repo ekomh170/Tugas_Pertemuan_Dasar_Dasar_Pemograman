@@ -18,5 +18,5 @@ Link File Github : <a href="https://github.com/ekomh170/Tugas_Pertemuan_Dasar_Da
 
 <h3>Tugas Pertemuan 8 - Praktikum_8_Python_Function - DDP :</h3>
 
-Link File Github : <a href="https://github.com/ekomh170/Tugas_Pertemuan_Dasar_Dasar_Pemograman/blob/ry_dev/Praktikum_6_Python_Looping/Tugas_DDP_Pertemuan_6_Python_Looping.py">Tugas_DDP_Pertemuan_8_python_function.py</a>
+Link File Github : <a href="https://github.com/ekomh170/Tugas_Pertemuan_Dasar_Dasar_Pemograman/tree/ry_dev/Praktikum_8_Python_Function.py">Tugas_DDP_Pertemuan_8_python_function.py</a>
 
