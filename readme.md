@@ -23,3 +23,7 @@ Link File Github : <a href="https://github.com/ekomh170/Tugas_Pertemuan_Dasar_Da
 <h3>Tugas Pertemuan 10 - Praktikum_10_Struktur_Data - DDP :</h3>
 
 Link File Github : <a href="https://github.com/ekomh170/Tugas_Pertemuan_Dasar_Dasar_Pemograman/blob/ry_dev/Praktikum_10_Struktur_Data/Praktikum_10_Eko%20Muchamad%20Haryono_0110223079_DDP.py">Tugas_DDP_Pertemuan_10_Struktur_Data.py</a>
+
+<h3>Tugas Pertemuan 11 - Tugas_11_Python_Fundamental_Modul - DDP :</h3>
+
+Link File Github : <a href="https://github.com/ekomh170/Tugas_Pertemuan_Dasar_Dasar_Pemograman/tree/ry_dev/Praktikum_11_Python_Fundamental_Modul">Tugas_DDP_Pertemuan_10_Struktur_Data.py</a>
