@@ -26,4 +26,4 @@ Link File Github : <a href="https://github.com/ekomh170/Tugas_Pertemuan_Dasar_Da
 
 <h3>Tugas Pertemuan 11 - Tugas_11_Python_Fundamental_Modul - DDP :</h3>
 
-Link File Github : <a href="https://github.com/ekomh170/Tugas_Pertemuan_Dasar_Dasar_Pemograman/tree/ry_dev/Praktikum_11_Python_Fundamental_Modul">Tugas_DDP_Pertemuan_10_Struktur_Data.py</a>
+Link File Github : <a href="https://github.com/ekomh170/Tugas_Pertemuan_Dasar_Dasar_Pemograman/tree/ry_dev/Praktikum_11_Python_Fundamental_Modul">Tugas_DDP_Tugas_11_Python_Fundamental_Modul</a>
