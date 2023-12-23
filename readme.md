@@ -31,3 +31,8 @@ Link File Github : <a href="https://github.com/ekomh170/Tugas_Pertemuan_Dasar_Da
 <h3>Tugas Pertemuan 12 - Tugas_12_Python_OOP - DDP :</h3>
 
 Link File Github : <a href="https://github.com/ekomh170/Tugas_Pertemuan_Dasar_Dasar_Pemograman/tree/ry_dev/Praktikum_12_Python_OOP">Tugas_DDP_Tugas_12_Python_OOP</a>
+
+<h3>Tugas Pertemuan 13 - Tugas_13_Python_OOP_INHERITANCE - DDP :</h3>
+
+Link File Github : <a href="https://github.com/ekomh170/Tugas_Pertemuan_Dasar_Dasar_Pemograman/tree/ry_dev/Praktikum_13_Python_OOP_INHERITANCE">Tugas_13_Python_OOP_INHERITANCE</a>
+
